@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.*
+.yarn/
+
+# Next.js and build output
+.next/
+out/
+build/
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+
+# Logs and local tooling
+*.log
+*.tsbuildinfo
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local archives and exports
+*.zip
+*.tar
+*.tar.gz
+
+# Vercel
+.vercel/
