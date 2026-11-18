@@ -31,3 +31,14 @@ Thumbs.db
 
 # Vercel
 .vercel/
+
+
+.claude/
+.windsurf/
+codes/unit4/.agents/
+codes/unit4/skills-lock.json
+codes/unit4/dev.db
+/package-lock.json
+
+AGENTS.md
+CLAUDE.md
