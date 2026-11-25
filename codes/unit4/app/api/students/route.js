@@ -14,7 +14,6 @@ export async function GET() {
     );
   }
 }
-
 // POST: Create a student
 export async function POST(request) {
   try {
