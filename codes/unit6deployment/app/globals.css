@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+  color: #222;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+a {
+  color: #0756a3;
+}
+
+main {
+  padding-top: 1rem;
+}
